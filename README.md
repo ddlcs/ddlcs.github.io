@@ -1,7 +1,7 @@
 ## Introduction
 ![Logo](https://raw.githubusercontent.com/ddlcs/ddlcs.github.io/master/logo.png)
 
-**Doki Doki Stickers** - это расширение, которое добавит на ваши страницы браузера девушек из игры Doki Doki Literature Club.
+**Doki Doki Stickers** is an extension that will add girls from the game Doki Doki Literature Club to your browser pages.
 
 ## Instruction
 
