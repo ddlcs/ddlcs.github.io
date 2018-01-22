@@ -5,7 +5,7 @@
 
 ## Instruction
 
-![Screenshot](https://raw.githubusercontent.com/ddlcs/ddlcs.github.io/master/Screenshot_1.png)
+![Screenshot](https://raw.githubusercontent.com/ddlcs/ddlcs.github.io/master/Screenshot_2.png)
 
 ## Support
 [https://vk.com/ddlcs](https://vk.com/ddlcs)
