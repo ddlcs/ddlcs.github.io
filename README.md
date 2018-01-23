@@ -3,6 +3,11 @@
 
 **Doki Doki Stickers** is an extension that will add girls from the game Doki Doki Literature Club to your browser pages.
 
+* Animated.
+* Sync all pages.
+* Move.
+* Saved position and girl after close browser.
+
 ## Instruction
 
 ![Screenshot](https://raw.githubusercontent.com/ddlcs/ddlcs.github.io/master/Screenshot_2.png)
