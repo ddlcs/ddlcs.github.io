@@ -6,6 +6,7 @@
 * Animated.
 * Sync all pages.
 * Move.
+* Voices.
 * Saved position and girl after close browser.
 
 ## Instruction
