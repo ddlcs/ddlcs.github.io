@@ -9,9 +9,13 @@
 * Voices.
 * Saved position and girl after close browser.
 
-## Instruction
+## Instruction for Chrome Ext
 
 ![Screenshot](https://raw.githubusercontent.com/ddlcs/ddlcs.github.io/master/Screenshot_2.png)
+
+## Instruction for Windows
+
+![Screenshot](https://raw.githubusercontent.com/ddlcs/ddlcs.github.io/master/Screenshot_44.png)
 
 ## Support
 [https://vk.com/ddlcs](https://vk.com/ddlcs)
